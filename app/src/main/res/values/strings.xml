@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTSSynthTest</string>
+    <string name="text">这是北京捷通华声语音合成功能</string>
+    <string name="synth">点击合成</string>
+</resources>
